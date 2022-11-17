@@ -1,0 +1,1 @@
+crosshair cover --example_output_format=pytest --coverage_type opcode --per_condition_timeout=240 main.candidate_rule > ./tests/tests.py
